@@ -1,8 +1,8 @@
-<h1 align="center">Welcome to MEAN-TODO-APP 👋</h1>
+<h1 align="center">Welcome to Weather App 👋</h1>
 <p>
 </p>
 
-![Sample](https://github.com/itsshaikhaj/MEAN_ToDo_App/blob/main/sample.gif)
+![Sample](https://github.com/itsshaikhaj/Angular_Weather_App/blob/master/weather-app_.gif)
 
 
 ## Technologies Used
